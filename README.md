@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhoovelts
 - 👀 I’m interested in learning to program ;)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on I don't know it yet ;)
 - 📫 How to reach me j.hoovelts@gmail.com
 
 <!---
